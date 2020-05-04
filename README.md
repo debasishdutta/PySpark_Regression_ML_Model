@@ -11,7 +11,7 @@ Description: The repository consists of below list of machine learning models fo
 	4. GBM
 
 Note:
-1. This scripts taking raw csv faile as a input source, however Hive integration is possible with very minimal changes 
+1. This scripts taking raw csv file as a input source, however Hive integration is possible with very minimal changes 
 2. User Input Section allows to set all model parameters as well as data source specification. Users dont need to edit anything except this    section. This is a fully automated end to end code.
 3. This script also perform basic EDA, Feature Engineering and Random Sampling based on user given test split
 4. Only test sample model evaluation metrices are reported
